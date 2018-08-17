@@ -2,19 +2,19 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+    "title": "Quote 1",
+    "body": "You don't have to spend all your time thinking about what you're doing, you just let it happen. There we go."
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla"
+    "title": "Quote 2",
+    "body": "You can do anything your heart can imagine. Absolutely no pressure. You are just a whisper floating across a mountain"
   },
   {
     "userId": 1,
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"
+    "title": "Quote 3",
+    "body": "Now let's put some happy little clouds in here. If there's two big trees invariably sooner or later there's gonna be a little tree."
   }
 ]

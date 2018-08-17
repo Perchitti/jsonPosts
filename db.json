@@ -2,19 +2,19 @@
   {
     "userId": 1,
     "id": 1,
-    "title": "Quote 1",
+    "title": "Quote",
     "body": "You don't have to spend all your time thinking about what you're doing, you just let it happen. There we go."
   },
   {
     "userId": 1,
     "id": 2,
-    "title": "Quote 2",
+    "title": "Quote",
     "body": "You can do anything your heart can imagine. Absolutely no pressure. You are just a whisper floating across a mountain"
   },
   {
     "userId": 1,
     "id": 3,
-    "title": "Quote 3",
+    "title": "Quote",
     "body": "Now let's put some happy little clouds in here. If there's two big trees invariably sooner or later there's gonna be a little tree."
   }
 ]
